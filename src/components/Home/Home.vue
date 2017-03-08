@@ -168,7 +168,7 @@ export default {
         margin: 15px 20px
 </style>
 <style scoped lang="css" rel="stylesheet/css">
-.modal:nth-child(n + 1) .modal-body {
+.modal:nth-child(n + 2) .modal-body {
   height: 79px;
 }
 
